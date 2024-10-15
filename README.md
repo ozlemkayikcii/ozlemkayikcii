@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning**
 
-- 🌱 I’m currently learning **Cyber Security, React, Assembly**
+- 🌱 I’m currently learning **Cyber Security**
 
 
 
